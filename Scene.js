@@ -1,5 +1,5 @@
 import * as THREE from 'https://cdn.skypack.dev/three'
-import Figure from 'https://raw.github.com/urbanmoon1337/threejs/main/Figure.js
+import Figure from 'https://raw.github.com/urbanmoon1337/threejs/main/Figure.js'
 
 const perspective = 800
 
