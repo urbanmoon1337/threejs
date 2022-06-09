@@ -1,5 +1,5 @@
-import * as THREE from 'three'
-import { TweenMax as TM } from 'gsap'
+import * as THREE from 'https://cdn.skypack.dev/three'
+import { TweenMax as TM } from 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js'
 import vertexShader from './vertexShader.glsl'
 import fragmentShader from './fragmentShader.glsl'
 
