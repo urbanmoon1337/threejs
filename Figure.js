@@ -1,7 +1,7 @@
 import * as THREE from 'https://cdn.skypack.dev/three'
 import { TweenMax as TM } from 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js'
-import vertexShader from './vertexShader.glsl'
-import fragmentShader from './fragmentShader.glsl'
+import vertexShader from 'https://raw.github.com/urbanmoon1337/threejs/main/vertexShader.glsl'
+import fragmentShader from 'https://raw.github.com/urbanmoon1337/threejs/main/fragmentShader.glsl'
 
 export default class Figure {
     constructor(scene, cb) {
